@@ -29,4 +29,9 @@
     * [3.1.5 语句](di-3-zhang-ji-ben-gai-nian/3.1-yu-fa/3.1.5-yu-ju.md)
   * [3.2 关键字和保留字](di-3-zhang-ji-ben-gai-nian/3.2-guan-jian-zi-he-bao-liu-zi.md)
   * [3.3 变量](di-3-zhang-ji-ben-gai-nian/3.3-bian-liang.md)
+  * [3.4 数据结构](di-3-zhang-ji-ben-gai-nian/3.4-shu-ju-jie-gou.md)
+  * [3.5 操作符](di-3-zhang-ji-ben-gai-nian/3.5-cao-zuo-fu.md)
+  * [3.6 语句](di-3-zhang-ji-ben-gai-nian/3.6-yu-ju.md)
+  * [3.7 函数](di-3-zhang-ji-ben-gai-nian/3.7-han-shu.md)
+  * [3.8 小结](di-3-zhang-ji-ben-gai-nian/3.8-xiao-jie.md)
 
