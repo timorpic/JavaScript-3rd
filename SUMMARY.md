@@ -28,4 +28,5 @@
     * [3.1.4 严格模式](di-3-zhang-ji-ben-gai-nian/3.1-yu-fa/3.1.4-yan-ge-mo-shi.md)
     * [3.1.5 语句](di-3-zhang-ji-ben-gai-nian/3.1-yu-fa/3.1.5-yu-ju.md)
   * [3.2 关键字和保留字](di-3-zhang-ji-ben-gai-nian/3.2-guan-jian-zi-he-bao-liu-zi.md)
+  * [3.3 变量](di-3-zhang-ji-ben-gai-nian/3.3-bian-liang.md)
 
